@@ -8,5 +8,6 @@
         public DateTime Inicio { get; set; }
         public DateTime Fim { get; set; }
 
+        public List<HeroiBatalha> HeroisBatalhas { get; set; }
     }
 }
