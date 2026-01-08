@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A796CFB4-5EF2-4F96-A03F-5E3A67807F14}|EFCore.WebAPI\\EFCore.WebAPI.csproj|c:\\users\\ccfel\\onedrive\\meu computador (galaxy book 4)\\documents\\github\\asp.net-entity-legado\\efcore.webapi\\efcore.webapi\\model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796CFB4-5EF2-4F96-A03F-5E3A67807F14}|EFCore.WebAPI\\EFCore.WebAPI.csproj|solutionrelative:efcore.webapi\\model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796CFB4-5EF2-4F96-A03F-5E3A67807F14}|EFCore.WebAPI\\EFCore.WebAPI.csproj|c:\\users\\ccfel\\onedrive\\meu computador (galaxy book 4)\\documents\\github\\asp.net-entity-legado\\efcore.webapi\\efcore.webapi\\model\\batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796CFB4-5EF2-4F96-A03F-5E3A67807F14}|EFCore.WebAPI\\EFCore.WebAPI.csproj|solutionrelative:efcore.webapi\\model\\batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A796CFB4-5EF2-4F96-A03F-5E3A67807F14}|EFCore.WebAPI\\EFCore.WebAPI.csproj|c:\\users\\ccfel\\onedrive\\meu computador (galaxy book 4)\\documents\\github\\asp.net-entity-legado\\efcore.webapi\\efcore.webapi\\model\\heroi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A796CFB4-5EF2-4F96-A03F-5E3A67807F14}|EFCore.WebAPI\\EFCore.WebAPI.csproj|solutionrelative:efcore.webapi\\model\\heroi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arma.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Model\\Arma.cs",
+              "RelativeDocumentMoniker": "EFCore.WebAPI\\Model\\Arma.cs",
+              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Model\\Arma.cs",
+              "RelativeToolTip": "EFCore.WebAPI\\Model\\Arma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:22:45.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Batalha.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Model\\Batalha.cs",
+              "RelativeDocumentMoniker": "EFCore.WebAPI\\Model\\Batalha.cs",
+              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Model\\Batalha.cs",
+              "RelativeToolTip": "EFCore.WebAPI\\Model\\Batalha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:22:32.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heroi.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Model\\Heroi.cs",
+              "RelativeDocumentMoniker": "EFCore.WebAPI\\Model\\Heroi.cs",
+              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Model\\Heroi.cs",
+              "RelativeToolTip": "EFCore.WebAPI\\Model\\Heroi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:22:10.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
