@@ -10,6 +10,11 @@ namespace EFCore.WebAPI.Data
         public DbSet<Batalha> Batalhas { get; set; }
         public DbSet<Arma> Armas { get; set; }
 
+        public DbSet<HeroiBatalha> HeroisBatalhas { get; set; }
+
+        public DbSet<IdentidadeSecreta> IdentidadesSecretas { get; set; }
+
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) //faz a configuração do banco de dados
         {
             optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;\r\nInitial Catalog=HeroApp;\r\nIntegrated Security=True;\r\n"); //string de conexão com o banco de dados
