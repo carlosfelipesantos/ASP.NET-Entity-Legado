@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2107B88B-E1C4-3D42-0138-13A158C5F6C8}|EFCore.WebAPI\\EFCore.WebAPI.csproj|c:\\users\\ccfel\\onedrive\\meu computador (galaxy book 4)\\documents\\github\\asp.net-entity-legado\\efcore.webapi\\efcore.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2107B88B-E1C4-3D42-0138-13A158C5F6C8}|EFCore.WebAPI\\EFCore.WebAPI.csproj|solutionrelative:efcore.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D2D78DD-47AA-4F61-863B-B50B51F7C16B}|EFCore.Repo\\EFCore.Repo.csproj|c:\\users\\ccfel\\onedrive\\meu computador (galaxy book 4)\\documents\\github\\asp.net-entity-legado\\efcore.webapi\\efcore.repo\\migrations\\20260109191217_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D2D78DD-47AA-4F61-863B-B50B51F7C16B}|EFCore.Repo\\EFCore.Repo.csproj|solutionrelative:efcore.repo\\migrations\\20260109191217_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,6 +87,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EFCore.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EFCore.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T19:15:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "20260109191217_init.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Repo\\Migrations\\20260109191217_init.cs",
               "RelativeDocumentMoniker": "EFCore.Repo\\Migrations\\20260109191217_init.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EFCore.WebAPI\\appsettings.json",
@@ -103,12 +120,11 @@
               "RelativeToolTip": "EFCore.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-09T19:09:39.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T19:09:39.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HeroiContext.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Repo\\HeroiContext.cs",
               "RelativeDocumentMoniker": "EFCore.Repo\\HeroiContext.cs",
@@ -116,12 +132,11 @@
               "RelativeToolTip": "EFCore.Repo\\HeroiContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T18:08:54.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T18:08:54.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IdentidadeSecreta.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Dominio\\IdentidadeSecreta.cs",
               "RelativeDocumentMoniker": "EFCore.Dominio\\IdentidadeSecreta.cs",
@@ -133,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HeroiBatalha.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Dominio\\HeroiBatalha.cs",
               "RelativeDocumentMoniker": "EFCore.Dominio\\HeroiBatalha.cs",
@@ -145,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Heroi.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Dominio\\Heroi.cs",
               "RelativeDocumentMoniker": "EFCore.Dominio\\Heroi.cs",
@@ -157,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Batalha.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Dominio\\Batalha.cs",
               "RelativeDocumentMoniker": "EFCore.Dominio\\Batalha.cs",
@@ -169,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Arma.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Dominio\\Arma.cs",
               "RelativeDocumentMoniker": "EFCore.Dominio\\Arma.cs",
@@ -181,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "m0ymemz2.sql",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\obj\\Debug\\net10.0\\m0ymemz2.sql",
               "RelativeDocumentMoniker": "EFCore.WebAPI\\obj\\Debug\\net10.0\\m0ymemz2.sql",
@@ -192,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EFCore.Repo.csproj",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Repo\\EFCore.Repo.csproj",
               "RelativeDocumentMoniker": "EFCore.Repo\\EFCore.Repo.csproj",
@@ -200,12 +215,11 @@
               "RelativeToolTip": "EFCore.Repo\\EFCore.Repo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-09T18:54:38.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T18:54:38.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EFCore.Dominio.csproj",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.Dominio\\EFCore.Dominio.csproj",
               "RelativeDocumentMoniker": "EFCore.Dominio\\EFCore.Dominio.csproj",
@@ -213,12 +227,11 @@
               "RelativeToolTip": "EFCore.Dominio\\EFCore.Dominio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-09T18:55:34.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T18:55:34.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EFCore.WebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\EFCore.WebAPI.csproj",
               "RelativeDocumentMoniker": "EFCore.WebAPI\\EFCore.WebAPI.csproj",
@@ -226,12 +239,11 @@
               "RelativeToolTip": "EFCore.WebAPI\\EFCore.WebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T18:28:24.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T18:28:24.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "EFCore.WebAPI\\Program.cs",
@@ -243,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\Meu Computador (Galaxy Book 4)\\Documents\\GitHub\\ASP.NET-Entity-Legado\\EFCore.WebAPI\\EFCore.WebAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "EFCore.WebAPI\\WeatherForecast.cs",
