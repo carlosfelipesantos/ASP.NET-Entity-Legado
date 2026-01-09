@@ -1,4 +1,5 @@
-﻿using EFCore.WebAPI.Model;
+﻿
+using EFCore.Dominio;
 using Microsoft.EntityFrameworkCore;
 
 namespace EFCore.Repo

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCore.Repo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c8a923e17a600057a823b9c44b87679a2b8d95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11e13cfef712ecd96605f1c23144507f894a0c72")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCore.Repo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCore.Repo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
