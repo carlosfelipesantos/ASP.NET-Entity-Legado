@@ -1,0 +1,12 @@
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\bin\Debug\net8.0\EFCore.Dominio.deps.json
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\bin\Debug\net8.0\EFCore.Dominio.dll
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\bin\Debug\net8.0\EFCore.Dominio.pdb
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.AssemblyInfoInputs.cache
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.AssemblyInfo.cs
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.sourcelink.json
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.dll
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\refint\EFCore.Dominio.dll
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\EFCore.Dominio.pdb
+C:\Users\ccfel\OneDrive\Meu Computador (Galaxy Book 4)\Documents\GitHub\ASP.NET-Entity-Legado\EFCore.WebAPI\EFCore.Dominio\obj\Debug\net8.0\ref\EFCore.Dominio.dll
